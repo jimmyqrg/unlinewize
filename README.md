@@ -25,4 +25,4 @@
 
 ### A note
 
-Please do not DMCA this repo, no source code are shared here. To see the source code, click [here](repo:jimmyqrg/rammerhead).
+Please do not DMCA this repo, no source code are shared here. To see the source code, click [here](https://github.com/jimmyqrg/rammerhead).
