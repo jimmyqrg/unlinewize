@@ -22,3 +22,7 @@
 - Added insert scripts (bookmarklet)
 - Added fullscreen page option (for better experiencing in games, movies, etc.)
 - Added a dark mode
+
+### A note
+
+Please do not DMCA this repo, no source code are shared here. To see the source code, click [here](repo:jimmyqrg/rammerhead).
